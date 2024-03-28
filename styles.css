@@ -1,0 +1,105 @@
+.logo_navbar {
+    width: 20px; /* Defina a largura desejada */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
+.montserrat_footer {
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    padding-top: 2%;
+}
+
+.ubuntu_navbar_logo {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.montserrat_navbar{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(0, 0, 0);
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.logotipo{
+    size-adjust: 20%;
+}
+
+.montserrat_offcanvas{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+}
+
+body {
+    background-image: url('./images/Background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.frase_inicial {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin-right: 5px;
+}
+
+header {
+    padding-top: 20%;
+}
+
+.ubuntu_offcanvas {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+.ubuntu_header {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(0, 0, 0);
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.logo-header {
+    width: 50px;
+    height: auto;
+}
+
+.montserrat_header{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+}
+
+.logo-offcanvas {
+    width: 50px;
+    height: auto;
+}
